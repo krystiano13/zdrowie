@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/zdrowie/static/css/main.b835c213.chunk.css",
+    "main.css": "/zdrowie/static/css/main.fc399c86.chunk.css",
     "main.js": "/zdrowie/static/js/main.7fd730a6.chunk.js",
     "main.js.map": "/zdrowie/static/js/main.7fd730a6.chunk.js.map",
     "runtime-main.js": "/zdrowie/static/js/runtime-main.95058304.js",
@@ -8,15 +8,15 @@
     "static/js/2.bc46da99.chunk.js": "/zdrowie/static/js/2.bc46da99.chunk.js",
     "static/js/2.bc46da99.chunk.js.map": "/zdrowie/static/js/2.bc46da99.chunk.js.map",
     "index.html": "/zdrowie/index.html",
-    "precache-manifest.40a26c546278b6760bb5abbbd23c8db6.js": "/zdrowie/precache-manifest.40a26c546278b6760bb5abbbd23c8db6.js",
+    "precache-manifest.5acfdc13ba2fbfbd84c7c28b286f189c.js": "/zdrowie/precache-manifest.5acfdc13ba2fbfbd84c7c28b286f189c.js",
     "service-worker.js": "/zdrowie/service-worker.js",
-    "static/css/main.b835c213.chunk.css.map": "/zdrowie/static/css/main.b835c213.chunk.css.map",
+    "static/css/main.fc399c86.chunk.css.map": "/zdrowie/static/css/main.fc399c86.chunk.css.map",
     "static/js/2.bc46da99.chunk.js.LICENSE.txt": "/zdrowie/static/js/2.bc46da99.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.95058304.js",
     "static/js/2.bc46da99.chunk.js",
-    "static/css/main.b835c213.chunk.css",
+    "static/css/main.fc399c86.chunk.css",
     "static/js/main.7fd730a6.chunk.js"
   ]
 }
