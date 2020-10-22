@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/zdrowie/static/css/main.41246e65.chunk.css",
-    "main.js": "/zdrowie/static/js/main.cf476ade.chunk.js",
-    "main.js.map": "/zdrowie/static/js/main.cf476ade.chunk.js.map",
+    "main.css": "/zdrowie/static/css/main.25a27788.chunk.css",
+    "main.js": "/zdrowie/static/js/main.1ab3e8a3.chunk.js",
+    "main.js.map": "/zdrowie/static/js/main.1ab3e8a3.chunk.js.map",
     "runtime-main.js": "/zdrowie/static/js/runtime-main.95058304.js",
     "runtime-main.js.map": "/zdrowie/static/js/runtime-main.95058304.js.map",
-    "static/js/2.8180966e.chunk.js": "/zdrowie/static/js/2.8180966e.chunk.js",
-    "static/js/2.8180966e.chunk.js.map": "/zdrowie/static/js/2.8180966e.chunk.js.map",
+    "static/js/2.f92392db.chunk.js": "/zdrowie/static/js/2.f92392db.chunk.js",
+    "static/js/2.f92392db.chunk.js.map": "/zdrowie/static/js/2.f92392db.chunk.js.map",
     "index.html": "/zdrowie/index.html",
-    "precache-manifest.69a9e074e96ab23b1229d6deb53b978d.js": "/zdrowie/precache-manifest.69a9e074e96ab23b1229d6deb53b978d.js",
+    "precache-manifest.07cef53283d1fe5052964b9ce9e5ae15.js": "/zdrowie/precache-manifest.07cef53283d1fe5052964b9ce9e5ae15.js",
     "service-worker.js": "/zdrowie/service-worker.js",
-    "static/css/main.41246e65.chunk.css.map": "/zdrowie/static/css/main.41246e65.chunk.css.map",
-    "static/js/2.8180966e.chunk.js.LICENSE.txt": "/zdrowie/static/js/2.8180966e.chunk.js.LICENSE.txt"
+    "static/css/main.25a27788.chunk.css.map": "/zdrowie/static/css/main.25a27788.chunk.css.map",
+    "static/js/2.f92392db.chunk.js.LICENSE.txt": "/zdrowie/static/js/2.f92392db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.95058304.js",
-    "static/js/2.8180966e.chunk.js",
-    "static/css/main.41246e65.chunk.css",
-    "static/js/main.cf476ade.chunk.js"
+    "static/js/2.f92392db.chunk.js",
+    "static/css/main.25a27788.chunk.css",
+    "static/js/main.1ab3e8a3.chunk.js"
   ]
 }
