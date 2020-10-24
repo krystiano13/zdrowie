@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58ea79d92eb08a8eb88227181a05d5e6",
+    "revision": "153db88e9d92a8ff13d6ac6e9ed16078",
     "url": "/zdrowie/index.html"
   },
   {
-    "revision": "ea7d295305663f434b20",
-    "url": "/zdrowie/static/css/main.f28fdb32.chunk.css"
+    "revision": "b522b5a64f934348f141",
+    "url": "/zdrowie/static/css/main.5b853cac.chunk.css"
   },
   {
     "revision": "0964ca2fdf8d5422211a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zdrowie/static/js/2.d1144a10.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea7d295305663f434b20",
+    "revision": "b522b5a64f934348f141",
     "url": "/zdrowie/static/js/main.727726a2.chunk.js"
   },
   {
